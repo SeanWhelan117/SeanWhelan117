@@ -3,6 +3,8 @@
 #### I mainly code in C++ and C#, however I have experience in many other languages including but not limited to: Python, Javascript (+ typescript), HTML (+ CSS) and Assembly. 
 #### For database management I have experience with MongoDB, SQL, MySql etc
 
+#### Heres My links 😊:
+
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://Github.com/SeanWhelan117)
 
