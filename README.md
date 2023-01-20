@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sean-whelan117)
 
-
+[![Website](https://img.shields.io/badge/website-My%20Website-orange)](https://seanwhelan117.wixsite.com/seanwhelan/about-8)
 
 
 <!--
