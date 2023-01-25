@@ -1,7 +1,11 @@
 ### Hi there 👋
-#### My name is Seán, I'm a software developer currently working towards an MsC in Computer Games Devevelopment in SETU Carlow.
+#### My name is Seán, I'm a software developer currently working towards an BsC in Computer Games Devevelopment in SETU Carlow.
 #### I mainly code in C++ and C#, however I have experience in many other languages including but not limited to: Python, Javascript (+ typescript), HTML (+ CSS) and Assembly. 
 #### For database management I have experience with MongoDB, SQL, MySql etc
+
+#### I am proficient in using Unity to develop games and React and React native to develop applications.
+
+#### When coding in C++ I have used various libraries to build games including but not limited to OpenGL (3D) and SFML (2D).
 
 #### Heres My links 😊:
 
