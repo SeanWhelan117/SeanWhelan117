@@ -5,9 +5,9 @@ Here are some of my technical skills:
 
 **Programming Languages:**
     
-    C++: 4 years of experience
-    C#: 3 years of experience
-    JavaScript/TypeScript: 3 years of experience
+    C++: 4 yrs
+    C#: 3 yrs
+    JavaScript/TypeScript: 3 yrs
     Python
     HTML
     CSS
