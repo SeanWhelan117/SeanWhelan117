@@ -20,7 +20,7 @@ Here are some of my technical skills:
 
 **Software Proficiencies:**
 
-    Development Environments: Visual Studio, Visual Studio Code (Vscode)
+    Development Environments: Visual Studio, Visual Studio Code (Vscode), EMACS
     Game Development: Unity
     Web Development: React, React Native
     UI/UX Design: Adobe XD, Figma, Balsamiq
@@ -28,13 +28,13 @@ Here are some of my technical skills:
 
 **Database / Cloud Experience:**
 
-    Databases: MongoDB, SQL, MySQL, SQLite
-    Cloud Platforms: Microsoft Azure Cloud
+    Databases: MongoDB, SQL, MySQL, SQLite, MSSQL
+    Cloud Platforms: Microsoft Azure Cloud -> Kusto
     API Query Language: GraphQL
 
 **Library Proficiencies:**
 
-    Data Serialization: YAML
+    Data Serialization: YAML, JSON
     2D Graphics: SFML
     3D Graphics: OpenGL
 
