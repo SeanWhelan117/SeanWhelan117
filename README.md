@@ -1,9 +1,7 @@
 Hi there 👋
-<div align="left">
-	<p>
-        <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=SeanWhelan117"/>
-    </p>
-</div>
+
+![Visitors](https://komarev.com/ghpvc/?username=SeanWhelan117&base=382)
+
 My name is Seán, I'm a software developer and a graduate of Computer Games Development BSc in SETU Carlow.
 
 Here are some of my technical skills:
